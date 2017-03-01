@@ -1,0 +1,23 @@
+              Controls                
+          and Map Symbols             
+======================================
+              Controls                
+======================================
+W-Up                                  
+S-Down                                
+D-Right                               
+A-Left                                
+O-Exit
+I-Inventory                           
+U-Start                               
+H-Help                                
+C-Player Info                         
+======================================
+             Map Symbols              
+======================================
+@-You                                 
+i-Item                                
+*-Monster                             
+{-Entrance                            
+}-Exit                                
+H-Heal                                

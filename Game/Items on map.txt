@@ -1,0 +1,10 @@
+0 2 0 15The One Sword
+1 1 0 7Helmet
+2 2 0 11Chestplate
+3 1 0 9Leggings
+4 1 0 6Boots
+5 1 0 7Gloves
+6 3 0 7Shield
+0 3 0 14The Sun Sword
+0 4 0 6Spear
+0 5 0 5Mace
